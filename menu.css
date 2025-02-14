@@ -1,0 +1,22 @@
+header,nav{
+    display: flex;
+    margin: auto;
+}
+p{
+    text-align: right;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 1px;
+}
+nav{
+    margin-right: 5px;
+    padding: 1px;
+}
+header{
+    background-color: gray;
+    border-radius: 25px;
+}
+h1{
+    margin-left: 10px;
+}
